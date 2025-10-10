@@ -57,19 +57,9 @@
 - Achieved 85% accuracy using NLP & ML algorithms.  
 - Real-time prediction interface built with Django.  
 
-#### 🔹 [IoT-Based Temperature Cooling System](https://github.com/VamshiKrishnaSiribommala/IoT-Cooling-System)
-> *Embedded C, Sensors*  
-- Automated fan speed control using real-time temperature.  
 
 ---
 
-### 🏅 Certifications  
-- 🧠 NPTEL – *The Joy of Computing using Python*  
-- 💡 Cisco Networking Academy – *Programming Essentials in C, Python, C++*  
-- ⚙️ Hackathon Project – *Automatic Nearby Help System (Crowdsourced SOS Network)*  
-- 🏆 Oracle Race to Certification 2025 – *Participant*  
-
----
 
 ### 📊 GitHub Stats  
 
