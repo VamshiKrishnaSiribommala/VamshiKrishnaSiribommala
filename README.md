@@ -12,12 +12,12 @@
 ## 💫 About Me
 
 - 🎓 I'm a **3rd-year B.Tech IT student** at VR Siddhartha Engineering College  
-- 💻 Passionate about **Web Development, Node.js, Django, and full-stack projects**  
+- 💻 Passionate about **Full Stack Development** and building **real-world applications**  
+- 🧩 Skilled in **Problem Solving, Algorithms, and Efficient Coding Practices**  
 - 🌱 Currently learning: *Advanced JavaScript, React, and Database Optimization*  
-- 🚀 Love building **real-world, impactful applications**  
+- 🚀 Love creating impactful projects that solve practical problems  
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/vamshikrishnasiribommala) | 📧 vamshikrishnasiribommala@gmail.com
 
----
 
 ## 🛠 Tech Stack & Skills
 
