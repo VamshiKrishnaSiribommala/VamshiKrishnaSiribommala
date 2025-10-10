@@ -1,4 +1,4 @@
-<!-- Profile Header -->
+[[<!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm Siribommala Vamshi Krishna</h1>
 <h3 align="center">💻 Aspiring Full Stack Developer | AI & Cybersecurity Enthusiast</h3>
 
@@ -93,3 +93,4 @@
 
 ---
 ⭐ *"Code. Learn. Build. Repeat."*  
+](https://github.com/VamshiKrishnaSiribommala)](https://github.com/VamshiKrishnaSiribommala)
