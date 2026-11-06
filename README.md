@@ -11,7 +11,7 @@
 
 ## 💫 About Me
 
-- 🎓 I'm a **3rd-year B.Tech IT student** at VR Siddhartha Engineering College  
+- 🎓 I'm a **4th-year B.Tech IT student** at VR Siddhartha Engineering College  
 - 💻 Passionate about **Full Stack Development** and building **real-world applications**  
 - 🧩 Skilled in **Problem Solving, Algorithms, and Efficient Coding Practices**  
 - 🌱 Currently learning: *Advanced JavaScript, React, and Database Optimization*  
